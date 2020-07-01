@@ -1,5 +1,5 @@
 # Investigating_TMDb_Dataset
-I investigated the TMDb movie dataset to identify trends that exist between attributes. 
+I investigated the TMDb movie dataset to identify trends that exist in movies. 
 
 The dataset consists of movies that were released prior to 2016 and some general information about each movie; including budget and popularity rating.
 
