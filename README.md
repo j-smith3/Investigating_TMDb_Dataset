@@ -1,4 +1,4 @@
-# Investigating_TMDb_Dataset
+# Investigating TMDb Movies Dataset
 
 ## Data Analysis Project - Udacity Data Analyst Nanodegree
 
